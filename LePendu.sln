@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LePendu", "LePendu.csproj", "{5DD3C8B3-A133-42C4-80CC-E89E5E962128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DD3C8B3-A133-42C4-80CC-E89E5E962128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD3C8B3-A133-42C4-80CC-E89E5E962128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD3C8B3-A133-42C4-80CC-E89E5E962128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD3C8B3-A133-42C4-80CC-E89E5E962128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {564A1465-F6AA-4257-9E3C-003CC0505B2F}
+	EndGlobalSection
+EndGlobal

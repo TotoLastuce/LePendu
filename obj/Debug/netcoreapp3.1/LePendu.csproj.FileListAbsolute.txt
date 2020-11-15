@@ -1,0 +1,13 @@
+C:\Users\Thom\source\repos\LePendu\bin\Debug\netcoreapp3.1\LePendu.exe
+C:\Users\Thom\source\repos\LePendu\bin\Debug\netcoreapp3.1\LePendu.deps.json
+C:\Users\Thom\source\repos\LePendu\bin\Debug\netcoreapp3.1\LePendu.runtimeconfig.json
+C:\Users\Thom\source\repos\LePendu\bin\Debug\netcoreapp3.1\LePendu.runtimeconfig.dev.json
+C:\Users\Thom\source\repos\LePendu\bin\Debug\netcoreapp3.1\LePendu.dll
+C:\Users\Thom\source\repos\LePendu\bin\Debug\netcoreapp3.1\LePendu.pdb
+C:\Users\Thom\source\repos\LePendu\obj\Debug\netcoreapp3.1\LePendu.csprojAssemblyReference.cache
+C:\Users\Thom\source\repos\LePendu\obj\Debug\netcoreapp3.1\LePendu.AssemblyInfoInputs.cache
+C:\Users\Thom\source\repos\LePendu\obj\Debug\netcoreapp3.1\LePendu.AssemblyInfo.cs
+C:\Users\Thom\source\repos\LePendu\obj\Debug\netcoreapp3.1\LePendu.csproj.CoreCompileInputs.cache
+C:\Users\Thom\source\repos\LePendu\obj\Debug\netcoreapp3.1\LePendu.dll
+C:\Users\Thom\source\repos\LePendu\obj\Debug\netcoreapp3.1\LePendu.pdb
+C:\Users\Thom\source\repos\LePendu\obj\Debug\netcoreapp3.1\LePendu.genruntimeconfig.cache
